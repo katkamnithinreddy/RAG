@@ -1,0 +1,10 @@
+Product Name: SmartHome Hub
+
+Features:
+- Voice control with Alexa and Google Assistant
+- Connects up to 100 devices
+- Energy monitoring and automation support
+- Mobile app for iOS and Android
+
+Battery Life: 12 hours on backup mode
+Connectivity: Wi-Fi 6, Zigbee, Bluetooth 5.2
